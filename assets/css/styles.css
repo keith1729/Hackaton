@@ -1,0 +1,12 @@
+body {
+    background-color: whitesmoke;
+}
+
+h2, h3 {
+    margin: 50px;
+    padding: 25px;
+}
+
+p {
+    margin-bottom: 50px;
+}
